@@ -8,5 +8,5 @@ Git tracks changes of files.
 
 我是一条龙！
 public Class Test(){
-
+	private String name;
 }
